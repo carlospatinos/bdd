@@ -1,0 +1,23 @@
+{
+  "name": "bdd",
+  "version": "1.0.0",
+  "description": "using cucumber with Gherkin language",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlospatinos/bdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlospatinos/bdd/issues"
+  },
+  "homepage": "https://github.com/carlospatinos/bdd#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.9.0"
+  }
+}
